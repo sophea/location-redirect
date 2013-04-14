@@ -1,4 +1,4 @@
-location-redirect
-=================
+tutorial-comp-dev-gae
+=====================
 
-Location-Redirect-service for GAE
+Tutorial: Developing a component based Google App Engine app
